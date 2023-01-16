@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitbarar
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python, Data Bricks, Hadoop
-- 💞️ I’m looking to collaborate on Sql and Power bi .
+- 🌱 I’m currently learning Python, Data Bricks, Hadoop ,Scala,Hive
+- 💞️ I’m looking to collaborate on Data Bricks, Spark Sql and Power bi .
 - 📫  reach me on 8125338406
 
 <!---
